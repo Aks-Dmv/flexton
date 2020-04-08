@@ -10,9 +10,7 @@ layout: default
     </div>
     <div class="c-author__info">
       <div class="c-author__name">{{site.author-name}}</div>
-      <p class="c-author__about">{{site.about-author | strip_html | truncatewords: 100}}</p>
-<!--       <span class="c-author__job">{{site.author-job}}</span><br>
-      <span class="c-author__job">{{site.author-loc}}</span><br> -->
+      <span class="c-author__job">{{site.author-job}}</span>
       <span class="c-author__job">Advisor: <a href="https://davheld.github.io" target="_blank">{{site.author-advisor}}</a></span>
     </div>
     <div class="c-contact-menu">
@@ -25,7 +23,7 @@ layout: default
       {% else %}
       {% endif %}
     </div>
-<!--     <p class="c-author__about">{{site.about-author | strip_html | truncatewords: 50}}</p> -->
+    <p class="c-author__about">Hi, I work with <a href="https://davheld.github.io" target="_blank">{{site.author-advisor}}</a> {{site.about-author | strip_html | truncatewords: 100}} <a href="https://www.csa.iisc.ac.in/~shalabh/" target="_blank">Prof. Shalabh Bhatnagar</a></p>
   </div>
 
   <div class="c-sidebar-footer">
