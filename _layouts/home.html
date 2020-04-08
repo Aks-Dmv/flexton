@@ -17,6 +17,16 @@ layout: default
       </span><br>
       <span class="c-author__job">adharmav {at] andrew [dot) cmu (dot} edu</span>
     </div>
+    <div class="c-contact-menu">
+      {% if site.author-email %}
+      <a href="/contact" class="c-contact-btn c-btn c-btn--secondary c-btn--round c-btn--shadow"><span data-icon='ei-envelope' data-size='s'></span> Send me</a>
+      {% else %}
+      {% endif %}
+      {% if site.author-twitter %}
+      <a href="https://twitter.com/intent/user?screen_name={{ site.social-twitter }}" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-sc-twitter' data-size='s'></span> Follow me</a>
+      {% else %}
+      {% endif %}
+    </div>
     <p class="c-author__about">Hi, I work with <a href="https://davheld.github.io" target="_blank">{{site.author-advisor}}</a> {{site.about-author | strip_html | truncatewords: 100}} <a href="https://www.csa.iisc.ac.in/~shalabh/" target="_blank">Prof. Shalabh Bhatnagar</a>.</p>
   </div>
 
@@ -25,11 +35,11 @@ layout: default
       <div class="c-social__title">Education</div>
       <div align="left" class="c-author__info">
         <span class="c-author__job">
-        <b><u>CMU</u></b><br>
+        <b>Carnegie Mellon University (CMU), Pittsburgh</b><br>
         <ul style="list-style-type:none;">
           <li>M.S. in Robotics [2022]</li>
         </ul>
-        <b><u>BITS</u></b><br>
+        <b>Birla Institute of Technology and Science (BITS), Goa</b><br>
         <ul style="list-style-type:none;">
           <li>B.E. (Hons.) Comp. Sci. [2020]</li>
           <li>B.E. (Hons.) Elec. Eng. [2020]</li>
