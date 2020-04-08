@@ -6,10 +6,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author
 author-name:    Akshay Dharmavaram
 author-image:   images/1.jpg
-author-job:     Graduate Student // Robotics Institute, CMU
+author-job:     Graduate Student
 author-email:   # Add your email for contant form.
 author-twitter: 
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+about-author:   Hi, I am going to join the CMU Robotics Institute as a graduate student under Prof. David Held. My work primarily focuses on using Deep Reinforcement Learning for robotic manipulation and control. Prior to joining CMU, I completed my undergraduate thesis on Hierarchical Reinforcement Learning under Prof. Shalabh Bhatnagar from IISc, Bangalore.
 
 # Social settings
 social-twitter:   artemsheludko_
