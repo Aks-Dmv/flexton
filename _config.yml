@@ -1,11 +1,11 @@
 title: Akshay Dharmavaram
 description: CMU grad student interested in Artificial Intelligence and Robotics
-baseurl: "flexton" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aks-dmv.github.io/flexton/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Akshay Dharmavaram
-author-image:   images/1.jpg
+author-image:   1.jpg
 author-job:     Graduate Student
 # author-loc:     Robotics Institute, CMU
 author-advisor: Prof. David Held
