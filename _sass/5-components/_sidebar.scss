@@ -170,13 +170,13 @@
       margin: 20px 0;
     }
   }
-  .c-sidebar-author {
-    .c-author {
-			.c-author__title {
-			@include screen-reader();
-			}
-    }
-   }
+//   .c-sidebar-author {
+//     .c-author {
+// 			.c-author__title {
+// 			@include screen-reader();
+// 			}
+//     }
+//    }
   .c-sidebar-footer {
     .c-social {
       .c-social__title {
@@ -215,11 +215,11 @@
         }
       }
     }
-    .c-author {
-	.c-author__title {
-	@include screen-reader();
-	}
-    }
+//     .c-author {
+// 	.c-author__title {
+// 	@include screen-reader();
+// 	}
+//     }
   }
   .c-sidebar-footer {
     .c-social {
