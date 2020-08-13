@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Style Guide
+title: Academic
 image: 8.jpg
 date: 2018-03-02 13:35:20 +0200
 tags:
@@ -10,7 +10,16 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-#### Headings by default:
+## Education:
+
+#### Carnegie Mellon University, Pittsburgh
+###### M.S. in Robotics [2022]
+
+#### Birla Institute of Technology and Science, Goa
+###### B.E. (Hons.) Computer Science [2020]
+###### B.E. (Hons.) Electrical Engineering [2020]
+
+***
 
 # H1 For example
 ## H2 For example
