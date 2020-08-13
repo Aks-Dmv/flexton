@@ -5,10 +5,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Akshay Dharmavaram
-author-image:   1.jpg
+author-image:   2.jpg
 author-job:     Graduate Student
 # author-loc:     Robotics Institute, CMU
-author-advisor: Prof. David Held
+# author-advisor: Prof. David Held
 author-email:   # Add your email for contant form.
 author-twitter: 
 about-author:   to create autonomous agents that can both understand and interact with the world around them. My research primarily focuses on Reinforcement Learning and Generative Modelling. Prior to joining CMU, I completed my undergraduate thesis on Hierarchical Reinforcement Learning under
