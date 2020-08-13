@@ -10,14 +10,12 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ***
 
-## Education:
+###### Carnegie Mellon University, Pittsburgh
+* M.S. in Robotics [2022]
 
-#### Carnegie Mellon University, Pittsburgh
-###### M.S. in Robotics [2022]
-
-#### Birla Institute of Technology and Science, Goa
-###### B.E. (Hons.) Computer Science [2020]
-###### B.E. (Hons.) Electrical Engineering [2020]
+###### Birla Institute of Technology and Science, Goa
+* B.E. (Hons.) Computer Science [2020]
+* B.E. (Hons.) Electrical Engineering [2020]
 
 ***
 
